@@ -27,10 +27,11 @@ nama_kelompok=[
     ["2","Afri Astio","17210126"],
     ["3","Arief Laksono","17210204"],
     ["4","Ahmad Jalaludin","17210673"],
-    ["5","Ezhra Harrison ","1721XXX"],
+    ["5","Ezhra Harrison ","17210219"],
     
     ]
 print("Kelompok Pertemuan 9 : ")
+print("Kelas : 17.1A.25 ")
 print(nama_kelompok[0])
 print(nama_kelompok[1])
 print(nama_kelompok[2])
